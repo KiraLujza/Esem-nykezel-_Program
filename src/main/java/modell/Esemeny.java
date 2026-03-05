@@ -7,6 +7,8 @@ import java.util.stream.Collectors;
 
 public class Esemeny {
 
+    //kész
+
     private List<Adatok> esemenyek = new ArrayList<>();
 
     public void addEsemeny(Adatok adat) {

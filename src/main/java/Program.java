@@ -4,6 +4,8 @@ import java.time.LocalDateTime;
 
 public class Program {
 
+    //kész
+
     public static void main(String[] args) {
 
         Esemeny esemenykezelo = new Esemeny();

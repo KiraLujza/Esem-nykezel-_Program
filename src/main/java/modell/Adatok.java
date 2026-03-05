@@ -4,6 +4,8 @@ import java.time.LocalDateTime;
 
 public class Adatok  {
 
+    //kész
+
     private int id;
     private String tipus;
     private String szemely;

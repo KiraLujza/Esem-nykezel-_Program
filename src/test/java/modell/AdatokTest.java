@@ -10,6 +10,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class EsemenyTest {
 
+    // kész
+
     private Esemeny esemenykezelo;
 
     @BeforeEach
